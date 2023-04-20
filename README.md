@@ -33,6 +33,8 @@ I'm always eager to connect with fellow developers, collaborate on interesting p
 - [Twitter](https://twitter.com/tomasbarakk/)
 
 ## Stats
+![Snake animation](https://github.com/tomasbarak/tomasbarak/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomasbarak&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=tomasbarak)
 
