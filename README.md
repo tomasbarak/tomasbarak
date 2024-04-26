@@ -29,7 +29,7 @@ I'm always eager to connect with fellow developers, collaborate on interesting p
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/tomas-barak-28530a237/)
+- [LinkedIn](https://www.linkedin.com/in/tomasbarak/)
 - [Twitter](https://twitter.com/tomasbarakk/)
 
 ## Stats
